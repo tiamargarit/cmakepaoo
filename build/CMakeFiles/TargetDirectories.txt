@@ -1,0 +1,3 @@
+/home/student/cmakepaoo/build/CMakeFiles/rebuild_cache.dir
+/home/student/cmakepaoo/build/CMakeFiles/edit_cache.dir
+/home/student/cmakepaoo/build/CMakeFiles/lab2.dir
